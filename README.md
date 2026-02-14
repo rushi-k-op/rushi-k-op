@@ -134,19 +134,6 @@ A tool to help international students find student dorms in Dortmund. The Studie
 
 ---
 
-## GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=rushi-k-op&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" height="170" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rushi-k-op&layout=compact&theme=tokyonight&hide_border=true" height="170" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=rushi-k-op&theme=tokyonight&hide_border=true" />
-</p>
-
----
-
 ## Languages I Speak
 
 English (C1) · Deutsch (A1 – learning!) · Marathi (Native) · Hindi (Native)
