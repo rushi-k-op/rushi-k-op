@@ -134,12 +134,6 @@ A tool to help international students find student dorms in Dortmund. The Studie
 
 ---
 
-## Languages I Speak
-
-English (C1) · Deutsch (A1 – learning!) · Marathi (Native) · Hindi (Native)
-
----
-
 ## Let's Connect
 
 I'm always open to **collaborating** on interesting projects — whether it's robotics, embedded systems, or something completely different. If you have a cool idea, let's talk!
