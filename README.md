@@ -45,8 +45,8 @@ My first hands-on project with ROS 2 — integrating MATLAB with ROS 2 to contro
 </td>
 <td width="50%">
 
-### [STW Dortmund Tracker](https://github.com/rushi-k-op/stwdo-tracker)
-A tool to help international students find student dorms in Dortmund. The Studierendenwerk portal works on a first-come-first-served basis, so this tracker monitors availability and helps you act fast. Built it out of my own struggle, and putting it out there so others don't have to go through the same.
+### [Embedded Cipher Library](https://github.com/rushi-k-op/embedded-cipher-lib)
+The embedded-cipher-lib repository is designed to provide lightweight, efficient cryptographic cipher implementations suitable for use in embedded systems. The project aims to deliver commonly used encryption algorithms with a focus on minimal resource usage, portability, and ease of integration into embedded devices and constrained environments. This library is ideal for developers seeking reliable, low-overhead cryptographic primitives for secure embedded applications.
 
 `Python`
 
